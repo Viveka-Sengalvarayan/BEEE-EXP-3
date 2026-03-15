@@ -38,13 +38,20 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
+![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-3/blob/main/3.1.jpeg?raw=true)
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
+Direct connection: CIRCUIT DIAGRAM:
+
+![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-3/blob/main/3.3.png?raw=true)
+
+Tabulation:
+
+![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-3/blob/main/3.4.png?raw=true)
+
+
 Cross connection: CIRCUIT DIAGRAM:
 
-Tabulation:2
+![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-3/blob/main/3.2.jpeg?raw=true)
 
 RESULT:
 Thus the staircase wiring is connected and tested.
